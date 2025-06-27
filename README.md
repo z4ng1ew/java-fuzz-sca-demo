@@ -1,6 +1,6 @@
 > **`JavaFuzzTrack: SCA & Fuzz Testing Integration`**
 
-## 📜 Краткое описание на 280 символов
+## 📜 Краткое описание
 
 ### 🇷🇺 Русский:
 
