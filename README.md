@@ -12,7 +12,7 @@ A pet project combining Java fuzz testing, SCA analysis via Dependency-Track, an
 
 ---
 
-## 📘 README.md (весь файл)
+## 📘 README.md 
 
 ```markdown
 # 🔒 JavaFuzzTrack: SCA + Fuzz Testing + Docker
